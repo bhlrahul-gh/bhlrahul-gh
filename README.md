@@ -11,7 +11,7 @@
 
 - 👨‍💻Look at my portfolio [https://rahulbhavihal.web.app/](https://rahulbhavihal.web.app/)
 
-- 📫 You can reach me at **rahul.bhlp@gmail.com**
+- 📫 You can reach out to me at **rahul.bhlp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
