@@ -1,6 +1,6 @@
 ![MasterHead](https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)
 <h1 align="center">Hello everybody 👋, I'm Rahul B S</h1>
-<h3 align="center">A passionate data enthusiast from Bharat <img alt="India" src="https://excelrcom.b-cdn.net/assets/admin/ckfinder/userfiles/images/2022_uploads/india-01.svg" style="width: 25px; height: 15px;"> , eager to drive informed decisions and contribute to growth.</h3>
+<h3 align="center">A passionate data enthusiast from Bharat <img alt="India" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" style="width: 23px; height: 15px;"> , eager to drive informed decisions and contribute to growth.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhlrahul981&label=Profile%20views&color=0e75b6&style=flat" alt="bhlrahul981" /> </p>
