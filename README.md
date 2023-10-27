@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Web Dev**
 
-- 👨‍💻Look at my portfolio [https://rahulb055.web.app/]
+- 👨‍💻Take a look at my portfolio **https://rahulb055.web.app/**
 
 - 📫 You can reach out to me at **rahul.bhlp@gmail.com**
 
